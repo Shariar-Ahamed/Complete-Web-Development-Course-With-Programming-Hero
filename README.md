@@ -40,7 +40,7 @@ Complete-Web-Development-Course-With-Programming-Hero/
 │   ├── Mini-Projects/
 │   └── Capstone-Project/
 └── README.md
-
+```
 
 > Each module folder contains exercises and practice files from the course. Projects folder contains mini projects and the final capstone project.
 
@@ -52,7 +52,7 @@ Complete-Web-Development-Course-With-Programming-Hero/
 
 ```bash
 git clone https://github.com/Shariar-Ahamed/Complete-Web-Development-Course-With-Programming-Hero.git
-
+```
 2. Navigate to the desired module or project folder.
 
 3. Open the HTML, CSS, or JS files in your browser or VS Code Live Server.
