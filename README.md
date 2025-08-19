@@ -1,7 +1,7 @@
 # Complete Web Development Course With Programming Hero
 
 <p align="center">
-  <img src="https://i.postimg.cc/F1pZZkcr/F1pZZkcr.jpg" alt="Course Cover" width="600"/>
+  <img src="https://i.postimg.cc/NfqzQ1jH/cover.jpg" alt="Course Cover" width="600"/>
 </p>
 
 ---
