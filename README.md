@@ -35,13 +35,13 @@ This repo is organized to help me track my learning journey and can serve as a r
 ```text
 Complete-Web-Development-Course-With-Programming-Hero/
 │
-├── Module-01-HTML/
-├── Module-02-CSS/
-├── Module-03-Tailwind-CSS/
-├── Module-04-JavaScript/
-├── Module-05-React/
-├── Module-06-Node-Express/
-├── Module-07-MongoDB/
+├── Milestone-1-HTML,CSS,Github/
+├── Milestone-2-Responsive-Design,Tailwind-CSS/
+├── Milestone-3-JavaScript/
+├── Milestone-4-Problem-Solving-With-JavaScript/
+├── Milestone-5-Interactive-JavaScript,DOM/
+├── Milestone-6-Node-Express/
+├── Milestone-7-MongoDB/
 ├── Projects/
 │   ├── Mini-Projects/
 │   └── Capstone-Project/
