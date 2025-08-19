@@ -26,7 +26,7 @@ This repo is organized to help me track my learning journey and can serve as a r
 ---
 
 ## 📂 Folder Structure
-
+```text
 Complete-Web-Development-Course-With-Programming-Hero/
 │
 ├── Module-01-HTML/
@@ -37,8 +37,8 @@ Complete-Web-Development-Course-With-Programming-Hero/
 ├── Module-06-Node-Express/
 ├── Module-07-MongoDB/
 ├── Projects/
-│ ├── Mini-Projects/
-│ └── Capstone-Project/
+│   ├── Mini-Projects/
+│   └── Capstone-Project/
 └── README.md
 
 
