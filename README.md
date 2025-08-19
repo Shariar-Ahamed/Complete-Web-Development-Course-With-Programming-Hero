@@ -1,5 +1,11 @@
 # Complete Web Development Course With Programming Hero
 
+<p align="center">
+  <img src="https://i.postimg.cc/F1pZZkcr/F1pZZkcr.jpg" alt="Course Cover" width="600"/>
+</p>
+
+---
+
 ![Web Development](https://img.shields.io/badge/Course-Programming%20Hero-blue)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
 
