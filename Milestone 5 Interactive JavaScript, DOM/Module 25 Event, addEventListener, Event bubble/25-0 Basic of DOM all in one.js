@@ -1,1 +1,1 @@
-//NOTE *To be continued video...* // 
+//NOTE *To be continu video...* // 
