@@ -1,9 +1,9 @@
-Local Storage শুধুমাত্র string সাপোর্ট করে। তাই Object বা Array সেভ করার আগে
+/* Local Storage শুধুমাত্র string সাপোর্ট করে। তাই Object বা Array সেভ করার আগে
 JSON.stringify() ব্যবহার করে string বানাতে হয়, আর পড়ার সময় JSON.parse()
 দিয়ে আবার Object/Array এ কনভার্ট করতে হয়।
+*/
 
-
-✅ Object Store & Access in Local Storage
+//✅ Object Store & Access in Local Storage
 // Object তৈরি
 let user = {
   name: "Shahriar",
@@ -24,7 +24,7 @@ console.log(getUser.country); // Output: Bangladesh
 
 
 
-✅ Array Store & Access in Local Storage
+//✅ Array Store & Access in Local Storage
 // Array তৈরি
 let fruits = ["Mango", "Banana", "Apple"];
 
@@ -41,7 +41,8 @@ console.log(getFruits[1]);   // Output: Banana
 
 
 
-👉 Rule of thumb:
+/*👉 Rule of thumb:
 
 Save করার সময় → JSON.stringify()
 Access করার সময় → JSON.parse()
+*/
