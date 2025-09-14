@@ -1,0 +1,25 @@
+Vite URL:- https://vite.dev/guide
+
+<----------------------React setup---------------------->
+
+npm create vite@latest my-vue-app -- --template react
+
+◆  Select a framework:
+│  ● Vanilla
+│
+◆  Select a variant:
+│  ○ TypeScript
+│  ● JavaScript
+└◇  Scaffolding project in C:\Users\Shahriar Ahammed\Desktop\New folder (3)\my-vue-app...
+│
+└  Done. Now run:
+
+  cd my-vue-app
+  npm install
+  npm run dev
+
+  VITE v7.1.5  ready in 167 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
