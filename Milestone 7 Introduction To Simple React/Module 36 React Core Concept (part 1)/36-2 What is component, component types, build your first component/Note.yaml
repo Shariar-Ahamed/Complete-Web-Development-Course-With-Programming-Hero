@@ -1,0 +1,7 @@
+ Complete-Web-Development-Course-With-Programming-Hero--> my-vue-app (Use Parent Folder)
+
+
+Complete-Web-Development-Course-With-Programming-Hero/  <--Parent Folder/
+├── my-vue-app/    <-- Child / Root Folder
+├── Subfolder2/
+└── Subfolder3/
