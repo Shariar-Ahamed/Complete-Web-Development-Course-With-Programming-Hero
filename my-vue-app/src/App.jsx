@@ -1,12 +1,16 @@
-
 import './App.css'
+import ToDo from './Todo'
 
 function App() {
+  const time = 52;
 
   return (
     <>
       <h1>Vite + React</h1>
-      <Student></Student>
+      <ToDo task="Learn React" isDone={true} time={time}></ToDo>
+      <ToDo task="Revise JS" isDone={false}></ToDo>
+      <ToDo task="Go sleep" isDone={true}></ToDo>
+      {/* <Student></Student>
       <Student></Student>
       <Person></Person>
       <Deveeloper name=" Ripon" tech="Java"></Deveeloper>
@@ -15,7 +19,7 @@ function App() {
 
       <Player name=" Tamim" runs="5000"></Player>
       <Player name=" Rakib" runs="2000"></Player>
-      <Player name=" Arif"></Player>
+      <Player name=" Arif"></Player> */}
     </>
   )
 }
